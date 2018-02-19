@@ -35,7 +35,7 @@ As a huge production combining teams from different countries it was especially 
 
 ![Pic](assets/assassins_creed.jpg)
 
-As I've previously said, nothing in game design is set in stone, it is important to acknowledge the different ways in which things can be done. [This talk from GDC 2017](https://youtu.be/kzQDVtysXjA) proves how you can pay very little attention to this and still manage to get a good game. Keep in mind that setting a structure early on and sticking to it with a certain degree of freedom is the most important thing to keep your development coherent. 
+As I've previously said, nothing in game design is set in stone, it is important to acknowledge the different ways in which things can be done. [This talk from GDC 2017](https://youtu.be/kzQDVtysXjA) proves how you can pay very little attention to what I've just said and still manage to get a good game. Keep in mind that setting a structure early on and sticking to it, with a certain degree of freedom, is the most important thing to keep your development coherent. 
 
 ### Bibliography:
 
